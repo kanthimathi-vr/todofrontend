@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Set a base URL for all requests
 const api = axios.create({
-  baseURL: 'https://todobackend-oj12.onrender.com',
+  baseURL: 'https://todobackend-1-2f6l.onrender.com',
 });
 
 // You can create reusable functions for each API endpoint
